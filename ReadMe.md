@@ -1,4 +1,4 @@
- MAGMA-Lisp
+# MAGMA-Lisp
 
 This repository contains part of the 
 [MAGMA-Lisp development history](https://github.com/Unipisa/Magma-Lisp/tree/SourceCode/). 
