@@ -22,7 +22,7 @@
   * *Roles:* Author
 * # Franco Turini
   * *Affiliation*
-     * *Current:* [Dipartimento di Informatica](www.di.unipi.it), [Università di Pisa](www.unipi.it)
+     * *Current:* [Dipartimento di Informatica](www.di.unipi.it), [Università di Pisa](www.unipi.it) (retired)
        * *Email:* <franco.turini@unipi.it>
        * *Github handle:* [@???](https://github.com/???)
        * *Website:* <http://pages.di.unipi.it/turini//>
@@ -36,7 +36,7 @@
   * *Roles:* Collector, Curator
 * # Elisabetta Mori
   * *Affiliation*
-     * *Current:* [???](???), [???](???)
+     * *Current:* [](???)
        * *Email:* <bettygorf@gmail.com>
-       * *Github handle:* [@???](https://github.com/???)
+       * *Github handle:* [@bettygorf](https://github.com/bettygorf)
   * *Roles:* Collector, Curator
