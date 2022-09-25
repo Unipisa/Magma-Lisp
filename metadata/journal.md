@@ -1,9 +1,10 @@
 # MAGMA-Lisp Journal
 
-* **05/07/2022** 
-  * *Items:* [metadata](../metadata/) 
+
+* **24/09/2022** 
+  * *Items:* [Magma-Lisp](../ReadMe.md) 
   * *Actors:* [Carlo Montangero](../metadata/actors.md#carlo_montangero) 
-  * *Description:* Almost completed metadata: review choises.
+  * *Description:* Uploaded code history
 
 * **05/07/2022** 
   * *Items:* [newItems](../additional_materials/newItems/) 

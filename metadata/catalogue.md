@@ -15,7 +15,7 @@ Example of Actor link:
 ~~~
 [Name Surname](./actors.md#name-surname)
 ~~~
-Example of Item links:
+Example of Item link:
 ~~~
 [Item Name](./raw_materials/example_file.zip)
 [Additional Materials Item Name](./additional_materials/example.ppt)
@@ -43,4 +43,4 @@ Example of Item links:
 # SW_NAME Catalogue Tree
 
 
-COpy here the result of the command `tree -a raw_materials additional_materials`.
+Copy here the result of the command `tree -a raw_materials additional_materials`.
