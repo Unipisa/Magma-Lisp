@@ -2,9 +2,7 @@
 
 MAGMA-Lisp was designed as a language to implement A.I. programming systems that exploit nondeterminism and complex control regimes.
 
-The simplest view of nondeterministic programming is that at each choice-point as
-many new computation environments are created as
-the alternatives to be explored are, giving raise to the *context tree*. MAGMA-Lisp brings the context tree to the foreground and gives complete control on its evolution to the programmer, rather than implementing some specific policy.
+The simplest view of nondeterministic programming is that at each choice-point as many new computation environments are created as the alternatives to be explored are, giving raise to the *context tree*. MAGMA-Lisp brings the context tree to the foreground and gives complete control on its evolution to the programmer, rather than implementing some specific policy.
 
 The computation environments provided by MAGMA-Lisp differ from that of standard LISP since, *within each context*, it is possible to depart from the normal LIFO discipline of LISP and define more complex control regimes, like *coroutines* etc.
 
